@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "file-type": "7.4.*",
+    "file-type": "16.5.4",
     "is-svg": "2.1.*",
     "read-chunk": "2.1.*"
   },
